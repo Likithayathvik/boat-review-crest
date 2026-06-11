@@ -2,3 +2,8 @@ google-play-scraper
 pandas
 openpyxl
 pytz
+google-play-scraper
+pandas
+openpyxl
+pytz
+beautifulsoup4
